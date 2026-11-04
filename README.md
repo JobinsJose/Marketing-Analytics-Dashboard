@@ -9,7 +9,7 @@ This project explores customer data to understand marketing campaign performance
 - DAX
 - Power Query
 
-## What I Did
+## Key Activities
 - Prepared and transformed customer data using SQL.
 - Analyzed campaign responses and customer purchasing patterns.
 - Created KPIs to monitor campaign performance.
